@@ -13,7 +13,7 @@
 
 <div align="left">
   <h1>Languages and Tools:</h1>
-  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" height="40" alt="C++ logo" />
@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 
-  <!-- Web Technologies -->
+  <h3> Web Technologies</h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 
-  <!-- Frontend Libraries/Frameworks -->
+  <h3>Frontend Libraries/Frameworks </h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 
-  <!-- Databases -->
+  <h3>Databases </h3> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" height="40" alt="SQL logo" />
 
-  <!-- Tools and Platforms -->
+  <h3>Tools and Platforms </h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
   <img width="12" />
