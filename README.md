@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack and Data Structures <br>💬 Ask me about JAVA , C++ , PHP<br>📫 How to reach me ankitrobinranjan@gmail.com<br>⚡  Coding can “power up” your brain
+🌱 I’m Currently Learning MERN Stack and Data Structures <br>💬 Ask Me About JAVA , C++ , PHP<br>📫 How To Reach Me ankitrobinranjan@gmail.com<br>⚡  Coding Can “Power Up” Your Brain
 
 
 ## 🌐 Socials:
