@@ -8,9 +8,7 @@
 # 💫 About Me:
 🌱 I’m Currently Learning MERN Stack and Data Structures <br>💬 Ask Me About JAVA , C++ , PHP<br>📫 How To Reach Me ankitrobinranjan@gmail.com<br>⚡  Coding Can “Power Up” Your Brain<br>
 
-<div style="text-align: center;">
-  Welcome to my GitHub Universe! 🚀 I'm on an exciting mission to explore the vast world of programming, where we discover new galaxies of knowledge and master the art of digital creation. Join me as we dive into the depths of code together, reaching for the stars! 🌟
-</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan-a40383221/) 
